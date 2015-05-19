@@ -16,6 +16,8 @@ $(function () {
         $dialog.removeClass('hidden');
         $dialogEls.filter(itemClass).removeClass('hidden');
 
+        ga('send', 'event', 'button', 'seemore', itemClass);
+
         return false;
     });
 
