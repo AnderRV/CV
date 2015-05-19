@@ -102,6 +102,7 @@ body.moved #main {
 .label.big {
     padding: 0.35rem 0.55rem;
     font-size: 0.9rem;
+    margin: 3px 0;
 }
 
 .period {
