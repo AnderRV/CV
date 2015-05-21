@@ -307,6 +307,13 @@ a.social-icon i {
     font-weight: bold;
 }
 
+@media only screen and (max-width: 25em) {
+    .period {
+        white-space: normal;
+        max-width: 140px;
+    }
+}
+
 @media only screen and (max-width: 40em) {
     #content h3 {
         border-bottom: 1px solid #ccc;
