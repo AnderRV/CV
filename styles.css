@@ -207,14 +207,14 @@ a.social-icon i {
     width: 0;
 }
 .progress .meter.php.animated {
-    width: 75%;
+    width: 70%;
 }
 .progress .meter.js {
     background-color: #f0db4f;
     width: 0;
 }
 .progress .meter.js.animated {
-    width: 75%;
+    width: 90%;
 }
 .progress .meter.sql {
     background-color: #e97b00;
@@ -228,7 +228,14 @@ a.social-icon i {
     width: 0;
 }
 .progress .meter.css.animated {
-    width: 50%;
+    width: 80%;
+}
+.progress .meter.react {
+    background-color: #61dafb;
+    width: 0;
+}
+.progress .meter.react.animated {
+    width: 80%;
 }
 
 .item > h5 {
